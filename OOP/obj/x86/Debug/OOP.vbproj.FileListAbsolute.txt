@@ -1,0 +1,18 @@
+C:\Users\Jomar\Desktop\Magno\OOP\OOP\bin\Debug\OOP.exe
+C:\Users\Jomar\Desktop\Magno\OOP\OOP\bin\Debug\OOP.pdb
+C:\Users\Jomar\Desktop\Magno\OOP\OOP\bin\Debug\OOP.xml
+C:\Users\Jomar\Desktop\Magno\OOP\OOP\obj\x86\Debug\WindowsApplication1.frmCalcu.resources
+C:\Users\Jomar\Desktop\Magno\OOP\OOP\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Jomar\Desktop\Magno\OOP\OOP\obj\x86\Debug\OOP.vbproj.GenerateResource.Cache
+C:\Users\Jomar\Desktop\Magno\OOP\OOP\obj\x86\Debug\OOP.exe
+C:\Users\Jomar\Desktop\Magno\OOP\OOP\obj\x86\Debug\OOP.xml
+C:\Users\Jomar\Desktop\Magno\OOP\OOP\obj\x86\Debug\OOP.pdb
+C:\Users\Jomar\Documents\Inggo\IT files\OOP\Vbfiles\OOP\OOP\obj\x86\Debug\OOP.xml
+C:\Users\Jomar\Documents\Inggo\IT files\OOP\Vbfiles\OOP\OOP\obj\x86\Debug\OOP.pdb
+C:\Users\Jomar\Documents\Inggo\IT files\OOP\Vbfiles\OOP\OOP\bin\Debug\OOP.exe
+C:\Users\Jomar\Documents\Inggo\IT files\OOP\Vbfiles\OOP\OOP\bin\Debug\OOP.pdb
+C:\Users\Jomar\Documents\Inggo\IT files\OOP\Vbfiles\OOP\OOP\bin\Debug\OOP.xml
+C:\Users\Jomar\Documents\Inggo\IT files\OOP\Vbfiles\OOP\OOP\obj\x86\Debug\WindowsApplication1.frmCalcu.resources
+C:\Users\Jomar\Documents\Inggo\IT files\OOP\Vbfiles\OOP\OOP\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Jomar\Documents\Inggo\IT files\OOP\Vbfiles\OOP\OOP\obj\x86\Debug\OOP.vbproj.GenerateResource.Cache
+C:\Users\Jomar\Documents\Inggo\IT files\OOP\Vbfiles\OOP\OOP\obj\x86\Debug\OOP.exe
